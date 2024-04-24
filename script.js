@@ -117,7 +117,7 @@ const menu = [
     price: "25.000",
     img:
     "./assets/tac.jpg",
-    desc: `Red bean paste dessert, serving with honey.`,
+    desc: `Trà xoài`,
     donvi:"750ml"
   },
   {
@@ -128,7 +128,7 @@ const menu = [
     price: "20.000",
     img:
     "./assets/tradao.jpg",
-    desc: `Red bean paste dessert, serving with honey.`,
+    desc: `Trà đào`,
     donvi:"750ml"
   },
   {
@@ -139,7 +139,7 @@ const menu = [
     price: "15.000",
     img:
     "./assets/nuocme.jpg",
-    desc: `Red bean paste dessert, serving with honey.`,
+    desc: `Nước me`,
     donvi:"750ml"
   },
   {
@@ -150,7 +150,7 @@ const menu = [
     price: "60.000",
     img:
     "./assets/nemran.jpg",
-    desc: `Red bean paste dessert, serving with honey.`,
+    desc: `Nem rán`,
     donvi:"đĩa"
   },
 ];
