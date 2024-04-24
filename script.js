@@ -114,7 +114,7 @@ const menu = [
     title: "Trà xoài",
     category: "Trà",
     categoryId: "3",
-    price: "15.000",
+    price: "25.000",
     img:
     "./assets/tac.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
@@ -125,7 +125,7 @@ const menu = [
     title: "Trà đào",
     categoryId: "3",
     category: "Trà",
-    price: "15.000",
+    price: "20.000",
     img:
     "./assets/tradao.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
