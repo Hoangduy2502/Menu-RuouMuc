@@ -165,7 +165,7 @@ const categories = menu.reduce(
     }
     return values;
   },
-  [{ category: "All", categoryId: "All" }]
+  [{ category: "Tất cả", categoryId: "All" }]
 );
 
 const categoryList = () => {
