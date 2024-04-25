@@ -111,13 +111,13 @@ const menu = [
   },
   {
     id: 12,
-    title: "Trà xoài",
+    title: "Trà xoài chanh leo",
     category: "Trà",
     categoryId: "3",
     price: "25.000",
     img:
     "./assets/tac.jpg",
-    desc: `Trà xoài`,
+    desc: `Trà xoài chanh leo`,
     donvi:"750ml"
   },
   {
@@ -151,6 +151,83 @@ const menu = [
     img:
     "./assets/nemran.jpg",
     desc: `Nem rán`,
+    donvi:"đĩa"
+  },
+  {
+    id: 16,
+    title: "Viên xiên thập cẩm",
+    category: "Đồ ăn vặt",
+    categoryId: "4",
+    price: "30.000",
+    img:
+    "./assets/vienchien.png",
+    desc: `Cá viên, viên rau củ, bò viên, tôm viên`,
+    donvi:"đĩa"
+  },
+  {
+    id: 17,
+    title: "Cá viên/viên rau củ/bò viên/tôm viên",
+    category: "Đồ ăn vặt",
+    categoryId: "4",
+    price: "20.000",
+    img:
+    "./assets/vienchien.png",
+    desc: `Cá viên/viên rau củ/bò viên/tôm viên`,
+    donvi:"đĩa"
+  },
+  {
+    id: 18,
+    title: "Phô mai que",
+    category: "Đồ ăn vặt",
+    categoryId: "4",
+    price: "10.000",
+    img:
+    "./assets/phomai.jpg",
+    desc: `Phô mai que`,
+    donvi:"cái"
+  },
+  {
+    id: 19,
+    title: "Mực xoắn",
+    category: "Đồ ăn vặt",
+    categoryId: "4",
+    price: "25.000",
+    img:
+    "./assets/mucxoan.jpg",
+    desc: `Mực xoắn`,
+    donvi:"đĩa"
+  },
+  {
+    id: 20,
+    title: "Đậu hũ phô mai",
+    category: "Đồ ăn vặt",
+    categoryId: "4",
+    price: "40.000",
+    img:
+    "./assets/dauhu.jpg",
+    desc: `Đậu hũ phô mai`,
+    donvi:"đĩa"
+  },
+  {
+    id: 21,
+    title: "Xúc xích",
+    category: "Đồ ăn vặt",
+    categoryId: "4",
+    price: "10.000",
+    img:
+    "./assets/xucxich.jpg",
+    desc: `Xúc xích`,
+    donvi:"Cái"
+  },
+  {
+    id: 22,
+    title: "Mì xào bò",
+    category: "Đồ ăn vặt",
+    categoryId: "4",
+    price: "70.000",
+    img:
+    "./assets/mi.jpg",
+    desc: `Mì xào bò`,
     donvi:"đĩa"
   },
 ];
